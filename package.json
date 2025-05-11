@@ -1,0 +1,11 @@
+{
+  "name": "ally",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobviivi/ally.git"
+  },
+  "author": "RB",
+  "license": "MIT"
+}
