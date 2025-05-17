@@ -1,11 +1,8 @@
 {
-  "name": "my-app",
+  "name": "a11yes",
   "version": "1.0.0",
-  "description": "A simple web application",
+  "description": "Javescript tool for Acceessibility im Web",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "Your Name",
-  "license": "ISC"
+  "author": "BAN",
+  "license": "GPL-3.0"
 }
